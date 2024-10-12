@@ -1,0 +1,11 @@
+# Prime Number Checker
+
+## Description
+This project implements a simple application that checks whether a given number is a prime number. The application includes input validation to ensure that users provide valid inputs.
+
+## Installation Instructions
+To install and run the Prime Number Checker project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Ani170320/my-project-1.git
