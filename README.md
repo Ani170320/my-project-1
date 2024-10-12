@@ -9,4 +9,3 @@ This project is a simple JavaScript application that checks whether a given numb
 - **User-friendly interface:** Easy to use, with clear prompts for user input.
 - **Efficient algorithm:** Utilizes a straightforward algorithm to check for primality.
 
-## Getting Started
